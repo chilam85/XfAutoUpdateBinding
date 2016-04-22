@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XfAutoUpdateBinding", "XfAutoUpdateBinding\XfAutoUpdateBinding.csproj", "{0DD528F9-3CD6-4379-B7C0-3F025DC925ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XfAutoUpdateDemo", "XfAutoUpdateDemo\XfAutoUpdateDemo.csproj", "{7D0B1D2E-9118-4A41-97DD-20998D987184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DD528F9-3CD6-4379-B7C0-3F025DC925ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD528F9-3CD6-4379-B7C0-3F025DC925ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD528F9-3CD6-4379-B7C0-3F025DC925ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD528F9-3CD6-4379-B7C0-3F025DC925ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D0B1D2E-9118-4A41-97DD-20998D987184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0B1D2E-9118-4A41-97DD-20998D987184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0B1D2E-9118-4A41-97DD-20998D987184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0B1D2E-9118-4A41-97DD-20998D987184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

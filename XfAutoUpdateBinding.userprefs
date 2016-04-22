@@ -1,0 +1,15 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="XfAutoUpdateDemo\XfAutoUpdateDemo.csproj">
+  <MonoDevelop.Ide.ItemProperties.XfAutoUpdateDemo PreferredExecutionTarget="Android.sada" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="XfAutoUpdateDemo\MainActivity.cs">
+    <Files>
+      <File FileName="XfAutoUpdateBinding\Transforms\Metadata.xml" Line="13" Column="42" />
+      <File FileName="XfAutoUpdateDemo\MainActivity.cs" Line="63" Column="3" />
+      <File FileName="XfAutoUpdateDemo\Properties\AndroidManifest.xml" Line="4" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

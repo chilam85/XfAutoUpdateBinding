@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">XfAutoUpdateDemo</string>
+	<string name="updateConfirmButton">立即下载</string>
+    <string name="updateCancelButton">以后再说</string>
+    <string name="update_download_progress">正在下载:%1$d%%</string>
+    <string name="update_download_success">下载完成</string>
+</resources>
