@@ -3,4 +3,5 @@
 
 官网地址: http://www.xfyun.cn/sdk/dispatch
 
-Nuget: 
+Nuget: https://www.nuget.org/packages/Iflytek.AutoUpdate.Android/
+
