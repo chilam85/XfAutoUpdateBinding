@@ -8,3 +8,5 @@
 
 Nuget: https://www.nuget.org/packages/Iflytek.AutoUpdate.Android/
 
+注意:该库的官方版本本来就不完善,http://bbs.xfyun.cn/forum.php?mod=viewthread&tid=13872&highlight=%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0
+所以不建议使用该库
